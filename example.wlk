@@ -1,7 +1,7 @@
 object algoritmo {
   
   method color() { 
-    return "Dorado"
+    return "ROJO"
     }
 }
 
@@ -9,4 +9,4 @@ object buenosAires {}
 
 object Cordoba {}
 
-
+object Neuquen {}
